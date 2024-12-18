@@ -1,7 +1,3 @@
-Here’s an updated version of your README file that aligns with the final code provided:
-
----
-
 # Interactive Map of Survey Respondents
 
 ## Overview
