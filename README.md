@@ -17,5 +17,4 @@ The map helps the user to understand where survey respondents are concentrated i
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heatmap-project.git
-   cd heatmap-project
+   git clone https://github.com/MasegoM94/interactive_map_python.git
